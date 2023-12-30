@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "bookName": "Nicolae",
+    "authorName": "Matei",
+    "dateOfPublication": "2010"
+  },
+  {
+    "id": 2,
+    "bookName": "Andrei",
+    "authorName": "Ille",
+    "dateOfPublication": "2018"
+  },
+  {
+    "id": 3,
+    "bookName": "Flaviu",
+    "authorName": "Ratiu",
+    "dateOfPublication": "2014"
+  },
+  {
+    "id": 4,
+    "bookName": "Daniel",
+    "authorName": "Cosman",
+    "dateOfPublication": "2002"
+  },
+  {
+    "id": 5,
+    "bookName": "Remus",
+    "authorName": "Vescan",
+    "dateOfPublication": "2005"
+  }
+]
